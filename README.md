@@ -48,3 +48,4 @@ def mostrar_tabla_ganadores(name, intentos):
 
 if __name__ == "_main_":
     jugar_juego()
+https://github.com/Antonioaguilera2005/Terminar_juego.git
